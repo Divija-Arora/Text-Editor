@@ -15,3 +15,10 @@ The project is a text editor application built using Python and Tkinter.Users ca
 **Customization:** While details may vary, typical customization options in such editors include font size, font type, and possibly text color.
 
 **Platform:** As a Python-based application, it should be cross-platform compatible, running on any system where Python and Tkinter are installed.
+
+#### Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Tkinter
+- PHP 
